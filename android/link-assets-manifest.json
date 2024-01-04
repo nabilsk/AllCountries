@@ -1,0 +1,69 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Mulish-Black.ttf",
+      "sha1": "e464e71f5d5468e148d144961d61f986e341da06"
+    },
+    {
+      "path": "assets/fonts/Mulish-BlackItalic.ttf",
+      "sha1": "d88f5819ac07bbd71c45af065f35190d5048f814"
+    },
+    {
+      "path": "assets/fonts/Mulish-Bold.ttf",
+      "sha1": "2af38d269c691ab59ff9d9090e9af96384149cb5"
+    },
+    {
+      "path": "assets/fonts/Mulish-BoldItalic.ttf",
+      "sha1": "2e2ee436a616ac899bfbde54cc6ad6637c98f9e2"
+    },
+    {
+      "path": "assets/fonts/Mulish-ExtraBold.ttf",
+      "sha1": "7179fb760aa0d157ad534dbaae5cd1c8a5c0ff11"
+    },
+    {
+      "path": "assets/fonts/Mulish-ExtraBoldItalic.ttf",
+      "sha1": "58ca9b3943fb1b4d3cd1f2ab42816f0398838338"
+    },
+    {
+      "path": "assets/fonts/Mulish-ExtraLight.ttf",
+      "sha1": "004d44866c75cef366fffe2f3333103b6520aa64"
+    },
+    {
+      "path": "assets/fonts/Mulish-ExtraLightItalic.ttf",
+      "sha1": "af238261cec213acc3b4c32ca34de1b303722361"
+    },
+    {
+      "path": "assets/fonts/Mulish-Italic.ttf",
+      "sha1": "8d8fee318ac8f9a10257d8d7df368d9df4071eec"
+    },
+    {
+      "path": "assets/fonts/Mulish-Italic[wght].ttf",
+      "sha1": "1cb3c48b64e5bec9f8a9044603608784d8a58dad"
+    },
+    {
+      "path": "assets/fonts/Mulish-Light.ttf",
+      "sha1": "95ca6fb7ddfd8ebca89fe9b7ff40838db88f1eaf"
+    },
+    {
+      "path": "assets/fonts/Mulish-LightItalic.ttf",
+      "sha1": "ab8ff58c9d0950b306e727aed6c677cd76e7cf36"
+    },
+    {
+      "path": "assets/fonts/Mulish-Regular.ttf",
+      "sha1": "93b1bf782b2ac3bb9c7eac0e7bd9bdc3c102b0d9"
+    },
+    {
+      "path": "assets/fonts/Mulish-SemiBold.ttf",
+      "sha1": "c067c9ffca20ffbdbaca51ee435d69f784a82727"
+    },
+    {
+      "path": "assets/fonts/Mulish-SemiBoldItalic.ttf",
+      "sha1": "a46a1c7d59eaeaa3fef8fe6d531b9adb08da86f0"
+    },
+    {
+      "path": "assets/fonts/Mulish[wght].ttf",
+      "sha1": "5345ed552b99de1690864fd4e69b886d4a03ed03"
+    }
+  ]
+}
